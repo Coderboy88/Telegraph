@@ -1,4 +1,4 @@
-# Copyright ©️ 2022 Sanila Ranatunga. All Rights Reserved
+# Copyright ©️ 2022 AnkushMishra. All Rights Reserved
 # You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
 # ##Credits - [telegraph-uploader-bot] (https://github.com/sanila2007/telegraph-uploader-bot)
 
@@ -22,8 +22,8 @@ bot = Client(
 INLINE_SELECT = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("Github🤩", url="https://github.com/sanila2007/telegraph-uploader-bot"),
-            InlineKeyboardButton("Report Bugs🤖", url="https://t.me/sanilaassistant_bot")
+            InlineKeyboardButton("BaapG", url="https://github.com/coderboy88 "),
+            InlineKeyboardButton("Report Bugs🤖", url="https://t.me/theclustercommunity")
         ],
         [
             InlineKeyboardButton("Join Channel🌐", url="https://t.me/telsabots")
